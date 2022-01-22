@@ -12,8 +12,8 @@ Open [Wordle](https://www.powerlanguage.co.uk/wordle/) and run [this snippet](./
 
 To find the solution for a custom date (past or future), run one of the following:
 
-`determineWord(dateOffset:number)` - Determine wordle solution for a day by passing in an offset from the current date.
-`determineWordByDate(targetDate:date)` - Determine wordle solution for a specific date
+- `determineWord(dateOffset:number)` - Determine wordle solution for a day by passing in an offset from the current date.
+- `determineWordByDate(targetDate:date)` - Determine wordle solution for a specific date
 
 ### Example
 
