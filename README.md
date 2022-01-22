@@ -8,7 +8,7 @@ This was made for fun. I was curious about how Wordle works and wanted to share 
 
 ## Usage
 
-Go to [https://www.powerlanguage.co.uk/wordle/](Wordle) and run [this snippet](./index.js) in the console. Yesterday's, today's and tomorrow's wordle solution will be printed.
+Open [Wordle](https://www.powerlanguage.co.uk/wordle/) and run [this snippet](./index.js) in the console. Yesterday's, today's and tomorrow's wordle solution will be printed.
 
 To find the solution for a custom date (past or future), run one of the following:
 
